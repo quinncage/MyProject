@@ -3,6 +3,7 @@
 //Other helpful tips:
 //you can use console.log(); to check whether a function is being excecuted or reached during the process of making your game
 //try to keep your draw function as simple as possible by creating a method that does or displays just one thing
+im making changes hehehe
 
 let WIDTH = window.innerWidth-25;
 let HEIGHT = window.innerHeight-25;
